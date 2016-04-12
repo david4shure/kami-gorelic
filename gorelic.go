@@ -1,4 +1,4 @@
-package kami_gorelic
+package kamigorelic
 
 import (
 	"fmt"
