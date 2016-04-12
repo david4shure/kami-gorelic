@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "suL7yZNBxN847Lmrt2bMIIwtJ4g=",
+			"path": "github.com/yvasiyarov/go-metrics",
+			"revision": "c25f46c4b94079672242ec48a545e7ca9ebe3aec",
+			"revisionTime": "2015-01-12T16:29:44+03:00"
+		},
+		{
+			"checksumSHA1": "+sXHhp5LofvXsVgIzGMu6wBqc/s=",
+			"path": "github.com/yvasiyarov/gorelic",
+			"revision": "899fe5e1be7138f2440c28e77532f0635c1249f1",
+			"revisionTime": "2015-11-01T16:07:28+03:00"
+		},
+		{
+			"checksumSHA1": "p15z/ewYRavCvrJ8K4Q1QsbfxXw=",
+			"path": "github.com/yvasiyarov/newrelic_platform_go",
+			"revision": "db03d6dfd965ebc22dbfd910567c641b326ff055",
+			"revisionTime": "2015-07-23T12:32:17+03:00"
+		},
+		{
+			"checksumSHA1": "hKZGpbFuCrkE4s1vxubKK1aFlfI=",
+			"path": "golang.org/x/net/context",
+			"revision": "c764672d0ee39ffd83cfcb375804d3181302b62b",
+			"revisionTime": "2015-10-31T15:59:27-07:00"
+		}
+	],
+	"rootPath": "github.com/david4shure/kami-gorelic"
+}
