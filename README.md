@@ -1,4 +1,4 @@
-GoRelic
+Kami GoRelic
 =======
 
 NewRelic middleware for kami framework.
